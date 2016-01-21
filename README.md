@@ -4,5 +4,6 @@ A curated list of companies that use Ruby, without Ruby on Rails.
 
 Contributions are very welcome!
 
-* [Travis](http://travis-ci.org)
 * [Clearbit](https://clearbit.com/)
+* [Travis](http://travis-ci.org)
+
