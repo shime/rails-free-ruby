@@ -7,3 +7,6 @@ Contributions are very welcome!
 * [Clearbit](https://clearbit.com/)
 * [Travis](http://travis-ci.org)
 
+## License
+
+MIT
