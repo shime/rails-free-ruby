@@ -4,6 +4,7 @@ A curated list of companies that use Ruby, without Ruby on Rails.
 
 Contributions are very welcome!
 
+* [Citrusbyte](https://citrusbyte.com)
 * [Clearbit](https://clearbit.com/)
 * [DNSimple](https://dnsimple.com/)
 * [Envato](https://www.envato.com/)
